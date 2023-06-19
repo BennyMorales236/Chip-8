@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/N1kh0n2wJujyVAzWn5Pc7EKWY+U3fgGmz/5vz71RDWKV8W7YutihnDqgz7JKsFbbiDEdI3LokC408UEkAjTaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Benny\\Desktop\\Coding Projects\\Chip-8\\Chip-8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Benny\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\Benny\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\Benny\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\Benny\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\Benny\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\Benny\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
